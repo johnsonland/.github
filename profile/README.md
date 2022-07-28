@@ -1,5 +1,5 @@
-# Hey, we're Johnson Land :construction_worker::wave:
+# Hey, we're Johnson Land :wave::construction_worker:
 
-Unfortunately, we don't currently have anything open-sourced at the moment. But, rest assured we're hard at work behind the scenes.
+We don't currently have anything open-sourced at the moment.
 
-<sub>:shushing_face: Psst! You can always get in contact with Johnson Land Technologies (our tech team) by [sending us an email](mailto:tech@johnsonland.co.uk).</sub>
+<sub>:shushing_face: Psst! You can always get in contact with our IT team by [sending us an email](mailto:it@johnsonland.co.uk).</sub>
